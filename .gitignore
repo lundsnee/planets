@@ -1,3 +1,5 @@
 results/jan.dat
 results/mar.dat
-ssnum
+*.ss
+*.data
+!final.data
